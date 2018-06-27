@@ -8,3 +8,4 @@ Terminal KeyWords  # Definition
 
 * touch            # Creates a file if it does NOT exist
 
+* parent directory # To access the parent directory '''..''' To reference it
