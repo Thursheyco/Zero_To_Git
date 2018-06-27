@@ -1,0 +1,9 @@
+Git KeyWords	   
+
+* git config --global core.editor "nano" # Changes the default word editor from vim - nano
+
+* git config --global user.name "Sheyco" # Changes user name
+
+* git config --global user.email sheycoa@gmail.com # Changes default email
+
+* git commit -m "Some Message here (Start w/ a verb)" # Message in a bottle to come back 2
