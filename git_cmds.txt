@@ -7,3 +7,18 @@ Git KeyWords
 * git config --global user.email sheycoa@gmail.com # Changes default email
 
 * git commit -m "Some Message here (Start w/ a verb)" # Message in a bottle to come back 2
+
+* git blame <path> # Tool used to show who edited the file and what time and commit id
+
+* git reflog # Tool used to find lost commits
+
+* git log # Shows what commits you've committed
+
+* git reset --hard <sha_id> # Hard change over that will change the directories in your 
+			      folder to the sha_id you enter.
+
+* git checkout
+
+* git add <path>
+
+*git status # Tool that shows the unsaved changes you've made 
