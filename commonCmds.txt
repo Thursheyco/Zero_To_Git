@@ -1,0 +1,5 @@
+* ls ./            # Shows current directory 
+
+* cd ./            # Change to specified directory
+
+* touch            # Creates a file if it does NOT exist

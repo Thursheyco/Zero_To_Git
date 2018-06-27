@@ -1,0 +1,3 @@
+Terminal KeyWords  # Definition
+
+* -a               # Includes directories whose names begin with dot( . )
